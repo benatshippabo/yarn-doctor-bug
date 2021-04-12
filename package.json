@@ -1,0 +1,9 @@
+{
+  "name": "doctor-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+        "react-dom": "^17.0.0"
+  }
+}
