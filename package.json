@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-        "react-dom": "^17.0.0"
+    "react-dom": "^17.0.0"
   }
 }
